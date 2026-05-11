@@ -236,12 +236,6 @@ function enhanceArticleVisuals() {
       articleHero.style.backgroundSize = "cover";
       articleHero.style.backgroundPosition = "center";
 
-      // Set body background
-      document.body.style.backgroundImage = `linear-gradient(180deg, rgba(9,10,15,0.85), rgba(9,10,15,0.98)), url("${imgUrl}")`;
-      document.body.style.backgroundSize = "cover";
-      document.body.style.backgroundPosition = "center top";
-      document.body.style.backgroundAttachment = "fixed";
-
       const content = $("main.content");
       if (content && $(".lead", content) && !$(".article-visual", content)) {
         const figure = document.createElement("figure");
@@ -262,16 +256,7 @@ function enhanceArticleVisuals() {
     }
   }
 
-  if (mainHero) {
-    // Beautiful view of Earth / Cosmos for the main page
-    const defaultImg = "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1600&q=80";
-
-    // Set body background for the main page
-    document.body.style.backgroundImage = `linear-gradient(180deg, rgba(9,10,15,0.80), rgba(9,10,15,0.95)), url("${defaultImg}")`;
-    document.body.style.backgroundSize = "cover";
-    document.body.style.backgroundPosition = "center top";
-    document.body.style.backgroundAttachment = "fixed";
-  }
+  if (mainHero) document.body.classList.add("has-main-hero");
 }
 
 function setupRevealEffects() {
