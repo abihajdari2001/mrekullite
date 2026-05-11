@@ -1,0 +1,378 @@
+[
+  {
+    "title": "Rreth nesh",
+    "href": "about.html",
+    "tags": [],
+    "excerpt": "Ky është një projekt vullnetar, i ndërtuar me pasion, i cili synon t'i ofrojë lexuesit shqiptar një burim të besueshëm dhe të strukturuar për të eksploruar mrekullitë shkencore."
+  },
+  {
+    "title": "Forma Gjeoide e Tokës",
+    "href": "astronomia/forma_e_tokes.html",
+    "tags": [
+      "Astronomia",
+      "Gjeografia",
+      "Shkencë"
+    ],
+    "excerpt": "Në një epokë ku toka mendohej e sheshtë, Kurani përdori një terminologji të veçantë rrotulluese që zbulon formën e saj sferike dhe lehtësisht eliptike."
+  },
+  {
+    "title": "Astronomia",
+    "href": "astronomia/index.html",
+    "tags": [],
+    "excerpt": "10 tema të përzgjedhura."
+  },
+  {
+    "title": "Lëvizja e Diellit",
+    "href": "astronomia/levizja_e_diellit.html",
+    "tags": [
+      "Astronomia",
+      "Sistemi Diellor",
+      "Shkencë"
+    ],
+    "excerpt": "Derisa shkenca debatonte nëse Dielli rrinte në vend apo rrotullohej rreth Tokës, Kurani deklaroi se Dielli udhëton në një trajektore të përcaktuar drejt një destinacioni."
+  },
+  {
+    "title": "Meteoritët",
+    "href": "astronomia/meteoritet.html",
+    "tags": [],
+    "excerpt": "Kurani i përshkruan meteoritët si \"flakë shpuese\" (shihab thaqib), një përshkrim vizualisht dhe shkencërisht i përpiktë i trupave qiellorë që digjen në atmosferën e Tokës."
+  },
+  {
+    "title": "Orbita e Hënës",
+    "href": "astronomia/orbita_e_henes.html",
+    "tags": [
+      "Astronomia",
+      "Hëna",
+      "Kuran 36:39"
+    ],
+    "excerpt": "Kurani e përshkruan Hënën me “mansione” dhe me pamjen e një dege të vjetër palme të lakuar. Artikulli i QuranMiracles e lidh këtë me shtegun e Hënës, i cili nuk është vijë e thjeshtë, por lëvizje e përkulur në sistemin T"
+  },
+  {
+    "title": "Yjet Pulsar",
+    "href": "astronomia/pulsaret.html",
+    "tags": [
+      "Astronomia",
+      "Yjet",
+      "Shkencë"
+    ],
+    "excerpt": "Në vitin 1967 shkencëtarët zbuluan yje që lëshojnë valë zanore me ritme të ngjashme me një trokitje të fortë. Ky \"Trokëthyes\" kozmik u përshkrua në Kuran me ekzaktësi mahnitëse."
+  },
+  {
+    "title": "Qielli si Çati e Mbrojtur",
+    "href": "astronomia/qielli_mburoje.html",
+    "tags": [
+      "Astronomia",
+      "Gjeofizika",
+      "Shkencë"
+    ],
+    "excerpt": "Atmosfera e Tokës dhe fusha magnetike shërbejnë si një mburojë e pakalueshme kundër rreziqeve vdekjeprurëse të hapësirës, një fakt i deklaruar nga Kurani."
+  },
+  {
+    "title": "Vrimat e Zeza",
+    "href": "astronomia/vrimat_e_zeza.html",
+    "tags": [
+      "Astronomia",
+      "Kozmologji",
+      "Shkencë"
+    ],
+    "excerpt": "Zbulimi i vrimave të zeza është një nga arritjet më të mëdha të astrofizikës, dhe tre veçoritë e tyre kryesore përshkruhen saktësisht në Kuran."
+  },
+  {
+    "title": "ADN & kodi gjenetik",
+    "href": "biologji/adn_kodi_gjenetik.html",
+    "tags": [
+      "Biologji",
+      "Shkencë",
+      "Shpjegim i thjeshtë"
+    ],
+    "excerpt": "Zbulimi i ADN-së na ka treguar se njeriu është i programuar që në momentin e parë të fekondimit. Kurani e përshkruan këtë \"programim\" mahnitës me një saktësi absolute."
+  },
+  {
+    "title": "Biologji",
+    "href": "biologji/index.html",
+    "tags": [],
+    "excerpt": "10 tema të përzgjedhura."
+  },
+  {
+    "title": "Përcaktimi i Gjinisë",
+    "href": "biologji/percaktimi_i_gjinise.html",
+    "tags": [
+      "Biologji",
+      "Gjenetikë",
+      "Shkencë"
+    ],
+    "excerpt": "Zbulimi gjenetik që faktori mashkullor është ai që përcakton gjininë e foshnjës, është një e vërtetë e deklaruar shprehimisht në Kuran shekuj përpara mikroskopëve."
+  },
+  {
+    "title": "Dëgjimi para Shikimit",
+    "href": "embriologji/degjimi_dhe_shikimi.html",
+    "tags": [
+      "Embriologji",
+      "Anatomi",
+      "Shkencë"
+    ],
+    "excerpt": "Një sekuencë kuranore konstante thekson krijimin e shqisës së dëgjimit përpara asaj të shikimit. Embriologjia moderne tregon saktësisht të njëjtin rend zhvillimor te fetusi."
+  },
+  {
+    "title": "Fazat Embriologjike",
+    "href": "embriologji/fazat_embriologjike.html",
+    "tags": [
+      "Embriologji",
+      "Mjekësi",
+      "Shkencë"
+    ],
+    "excerpt": "Përshkrimi kuranor hap-pas-hapi i formimit të fetusit përputhet me një saktësi absolute terminologjike me mikroskopinë moderne mjekësore."
+  },
+  {
+    "title": "Embriologji",
+    "href": "embriologji/index.html",
+    "tags": [],
+    "excerpt": "10 tema të përzgjedhura."
+  },
+  {
+    "title": "Mudghah",
+    "href": "embriologji/mudghah.html",
+    "tags": [
+      "Embriologji",
+      "Zhvillim njerëzor",
+      "Kuran 23:14"
+    ],
+    "excerpt": "Termi kuranor “mudghah” përshkruan një fazë të embrionit si një copë e vogël e përtypur. Në embriologji, somitet e hershme krijojnë një pamje me shenja të përsëritura që i ngjan kësaj figure."
+  },
+  {
+    "title": "Fiziologji",
+    "href": "fiziologji/index.html",
+    "tags": [],
+    "excerpt": "10 tema të përzgjedhura."
+  },
+  {
+    "title": "Vështirësia e Ngjitjes në Qiell",
+    "href": "fiziologji/ngjitja_ne_qiell.html",
+    "tags": [
+      "Fiziologji",
+      "Atmosferë",
+      "Kuran 6:125"
+    ],
+    "excerpt": "Kurani përdor shembullin e ngjitjes drejt qiellit për të përshkruar ngushtimin e kraharorit. Sot dihet se lartësia sjell ulje presioni dhe mungesë oksigjeni, duke e bërë frymëmarrjen gjithnjë më të vështirë."
+  },
+  {
+    "title": "Pjesa Ballore e Trurit",
+    "href": "fiziologji/pjesa_ballore.html",
+    "tags": [
+      "Fiziologji",
+      "Neurologji",
+      "Shkencë"
+    ],
+    "excerpt": "Një zbulim modern në neurologji konfirmoi se planifikimi dhe gënjeshtra kontrollohen në pjesën e përparme të trurit — pikërisht vendi që Kurani e quan \"gënjeshtar\"."
+  },
+  {
+    "title": "Receptorët e Dhimbjes",
+    "href": "fiziologji/receptoret_e_dhimbjes.html",
+    "tags": [
+      "Fiziologji",
+      "Anatomi",
+      "Shkencë"
+    ],
+    "excerpt": "Zbulimi mjekësor i anatomisë tregoi se dhimbja ndihet përmes lëkurës, dhe jo tërësisht nga truri, një paralajmërim qartësisht i theksuar në Kuran."
+  },
+  {
+    "title": "Çarjet e Tokës",
+    "href": "gjeologji/carjet_e_tokes.html",
+    "tags": [
+      "Gjeologji",
+      "Tektonikë",
+      "Kuran 86:12"
+    ],
+    "excerpt": "Kurani betohet për Tokën “me çarje”. QuranMiracles e lidh këtë me faktin se korja tokësore është plot thyerje, çarje dhe kufij pllakash që luajnë rol në dinamikën e planetit."
+  },
+  {
+    "title": "Cikli i Ujit",
+    "href": "gjeologji/cikli_i_ujit.html",
+    "tags": [
+      "Gjeologji",
+      "Hidrologji",
+      "Shkencë"
+    ],
+    "excerpt": "Për shekuj me radhë njerëzimi kishte teori mitologjike mbi burimet nëntokësore, derisa zbulimi i Ciklit të Ujit provoi saktësinë e deklaratave të Kuranit."
+  },
+  {
+    "title": "Dallgët e Brendshme",
+    "href": "gjeologji/dallget_e_brendshme.html",
+    "tags": [
+      "Oqeanografi",
+      "Gjeologji",
+      "Shkencë"
+    ],
+    "excerpt": "Një dukuri e padukshme për syrin njerëzor, oqeanografia moderne zbuloi \"dallgët e thella nënujore\", një pamje e vizatuar saktësisht në fjalët e Kuranit."
+  },
+  {
+    "title": "Detet që Nuk Përzihen",
+    "href": "gjeologji/detet_nuk_perzihen.html",
+    "tags": [
+      "Oqeanografi",
+      "Gjeologji",
+      "Shkencë"
+    ],
+    "excerpt": "Zbulimi modern oqeanografik rreth barrierave të padukshme të kripësisë midis deteve është përshkruar në Kuran me detaje vizuale mahnitëse."
+  },
+  {
+    "title": "Erërat Pllenizuese",
+    "href": "gjeologji/eret_pllenuese.html",
+    "tags": [
+      "Gjeologji",
+      "Meteorologji",
+      "Kuran 15:22"
+    ],
+    "excerpt": "Kurani i quan erërat “pllenuese”, një shprehje që lidhet si me bartjen e polenit te bimët, ashtu edhe me rolin e grimcave të ajrit në formimin e reve dhe shiut."
+  },
+  {
+    "title": "Gjeologji",
+    "href": "gjeologji/index.html",
+    "tags": [],
+    "excerpt": "10 tema të përzgjedhura."
+  },
+  {
+    "title": "Lëvizja e Maleve",
+    "href": "gjeologji/levizja_e_maleve.html",
+    "tags": [
+      "Gjeologji",
+      "Tektonika e Pllakave",
+      "Shkencë"
+    ],
+    "excerpt": "Një pamje gjeologjike moderne që theu çdo besim të lashtë—malet thelbësisht nuk janë të palëvizshëm, por lundrojnë vazhdimisht ashtu si retë në qiell."
+  },
+  {
+    "title": "Malet si “kunja”",
+    "href": "gjeologji/malet_si_kunja.html",
+    "tags": [
+      "Gjeologji",
+      "Shkencë",
+      "Shpjegim i thjeshtë"
+    ],
+    "excerpt": "Gjeologjia moderne ka zbuluar se malet nuk janë thjesht ngritje sipërfaqësore, por kanë \"rrënjë\" masive nën tokë që veprojnë fiks si kunja stabilizuese. Kurani e ka deklaruar këtë fakt 14 shekuj më parë."
+  },
+  {
+    "title": "Pika Më e Ulët në Tokë",
+    "href": "gjeologji/pika_me_e_ulet.html",
+    "tags": [
+      "Gjeologji",
+      "Topografi",
+      "Histori"
+    ],
+    "excerpt": "Një profeci historike e shoqëruar me një detaj të frikshëm topografik: Kurani e identifikoi saktësisht basenin e Detit të Vdekur si pikën më të ulët në sipërfaqen e planetit."
+  },
+  {
+    "title": "Retë dhe Procesi i Shiut",
+    "href": "gjeologji/rete_dhe_shiu.html",
+    "tags": [
+      "Gjeologji",
+      "Meteorologji",
+      "Kuran 24:43"
+    ],
+    "excerpt": "Kurani përshkruan retë që shtyhen, bashkohen, grumbullohen dhe më pas nxjerrin shi. Ky rend i ngjan mënyrës si meteorologjia shpjegon formimin e reve të mëdha reshëse."
+  },
+  {
+    "title": "7 Shtresat e Tokës",
+    "href": "gjeologji/shtresat_e_tokes.html",
+    "tags": [
+      "Gjeologji",
+      "Sizmiologji",
+      "Shkencë"
+    ],
+    "excerpt": "Zbulimet e fundit sizmiologjike përcaktuan se Toka ku jetojmë përbëhet saktësisht nga shtatë shtresa rrethore. Kurani e theksoi këtë detaj 14 shekuj përpara arritjes së shkencës moderne."
+  },
+  {
+    "title": "Shkenca dhe Kurani",
+    "href": "index.html",
+    "tags": [],
+    "excerpt": "Një arkivë shqip për ata që duan të lexojnë shenjat e krijimit në qiell, tokë dhe trupin e njeriut, duke i lidhur me ajete Kuranore për reflektim të thelluar."
+  },
+  {
+    "title": "Atomi dhe Nën-Grimcat",
+    "href": "kimi/atomi.html",
+    "tags": [
+      "Kimi",
+      "Fizikë Kuantike",
+      "Shkencë"
+    ],
+    "excerpt": "Gjatë gjithë historisë besohej se atomi ishte thërrmija e fundit e pandashme e materies. Kurani sfidoi këtë mendim qindra vite para zbulimit të grimcave nënatomike."
+  },
+  {
+    "title": "Hekuri — Zbritja nga Hapësira",
+    "href": "kimi/hekuri.html",
+    "tags": [
+      "Kimi",
+      "Astrofizikë",
+      "Shkencë"
+    ],
+    "excerpt": "Një zbulim i mahnitshëm i astrofizikës moderne zbuloi se hekuri në Tokë ka origjinë jashtëtokësore, një fakt i theksuar me një folje të vetme, të saktë në Kuran."
+  },
+  {
+    "title": "Kimi",
+    "href": "kimi/index.html",
+    "tags": [],
+    "excerpt": "10 tema të përzgjedhura."
+  },
+  {
+    "title": "Big Bang - Shpërthimi i Madh",
+    "href": "kozmologji/big_bang.html",
+    "tags": [
+      "Kozmologji",
+      "Astrofizikë",
+      "Shkencë"
+    ],
+    "excerpt": "Një nga modelet më të mëdha të astrofizikës moderne përshkruhet mrekullisht me fjalë të qarta rreth 1400 vite përpara se shkencëtarët të arrinin ta kuptonin atë."
+  },
+  {
+    "title": "Fundi i Universit",
+    "href": "kozmologji/fundi_i_universit.html",
+    "tags": [
+      "Kozmologji",
+      "Astrofizikë",
+      "Shkencë"
+    ],
+    "excerpt": "Një nga skenarët më të mbështetur shkencorë për fundin e hapësirës është \"Mbledhja e Madhe\" (Big Crunch), e cila është ilustruar saktësisht njësoj nga Kurani."
+  },
+  {
+    "title": "Kozmologji",
+    "href": "kozmologji/index.html",
+    "tags": [],
+    "excerpt": "10 tema të përzgjedhura."
+  },
+  {
+    "title": "Zgjerimi i Universit",
+    "href": "kozmologji/zgjerimi_i_universit.html",
+    "tags": [
+      "Kozmologji",
+      "Astronomi",
+      "Shkencë"
+    ],
+    "excerpt": "Zbulimi më i madh i shekullit të 20-të në kozmologji u deklarua qartësisht në Kuran 1400 vjet më parë."
+  },
+  {
+    "title": "Zoologji",
+    "href": "zoologji/index.html",
+    "tags": [],
+    "excerpt": "10 tema të përzgjedhura."
+  },
+  {
+    "title": "Merimanga",
+    "href": "zoologji/merimanga.html",
+    "tags": [
+      "Zoologji",
+      "Biologji",
+      "Shkencë"
+    ],
+    "excerpt": "Zbulimi mbi dominimin e gjinisë femërore tek merimangat dhe ndërtimin e rrjetës gjen tregon një precizion gjuhësor mahnitës në tekstin Kuranor."
+  },
+  {
+    "title": "Krijimi i Qumështit",
+    "href": "zoologji/qumeshti_i_bagetise.html",
+    "tags": [
+      "Zoologji",
+      "Fiziologji",
+      "Shkencë"
+    ],
+    "excerpt": "Një shpjegim i paimagjinueshëm anatomik për prodhimin e qumështit të bagëtisë vërtetohet sot nga biologjia si një proces i ndërmjetëm i qarkullimit të gjakut."
+  }
+]
