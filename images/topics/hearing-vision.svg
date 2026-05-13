@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-label="Ilustrim për dëgjimin dhe shikimin">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#101827"/><stop offset="1" stop-color="#2a1838"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="540" fill="url(#bg)"/>
+  <g transform="translate(90 90)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M210 95c-60 0-108 48-108 108c0 73 70 83 70 148" stroke="#37d67a" stroke-width="18"/>
+    <path d="M210 155c-28 0-50 23-50 51c0 30 24 43 41 58c18 17 20 42 3 63" stroke="#8ef2bd" stroke-width="15"/>
+    <path d="M214 214c16-8 30-23 30-45c0-25-18-44-42-48" stroke="#3fb8ff" stroke-width="14"/>
+    <path d="M446 215c72-82 190-82 262 0c-72 82-190 82-262 0z" stroke="#3fb8ff" stroke-width="16"/>
+    <circle cx="577" cy="215" r="58" stroke="#e66a8a" stroke-width="16"/>
+    <circle cx="577" cy="215" r="19" fill="#e66a8a" stroke="none"/>
+    <path d="M347 215h54M739 215h54" stroke="#ffffff" stroke-width="7" opacity=".35"/>
+  </g>
+  <g opacity=".18" stroke="#ffffff">
+    <path d="M126 428c114-48 204-16 282 12s178 38 320-34" fill="none"/>
+    <path d="M118 458c118-32 203-2 282 23s174 30 326-22" fill="none"/>
+  </g>
+</svg>

@@ -91,7 +91,7 @@
     "title": "Biologji",
     "href": "biologji/index.html",
     "tags": [],
-    "excerpt": "10 tema të përzgjedhura."
+    "excerpt": "5 tema të përzgjedhura."
   },
   {
     "title": "Përcaktimi i Gjinisë",
@@ -143,7 +143,7 @@
     "title": "Fiziologji",
     "href": "fiziologji/index.html",
     "tags": [],
-    "excerpt": "10 tema të përzgjedhura."
+    "excerpt": "5 tema të përzgjedhura."
   },
   {
     "title": "Vështirësia e Ngjitjes në Qiell",
@@ -311,7 +311,7 @@
     "title": "Kimi",
     "href": "kimi/index.html",
     "tags": [],
-    "excerpt": "10 tema të përzgjedhura."
+    "excerpt": "5 tema të përzgjedhura."
   },
   {
     "title": "Big Bang - Shpërthimi i Madh",
@@ -337,7 +337,7 @@
     "title": "Kozmologji",
     "href": "kozmologji/index.html",
     "tags": [],
-    "excerpt": "10 tema të përzgjedhura."
+    "excerpt": "7 tema të përzgjedhura."
   },
   {
     "title": "Zgjerimi i Universit",
@@ -353,7 +353,7 @@
     "title": "Zoologji",
     "href": "zoologji/index.html",
     "tags": [],
-    "excerpt": "10 tema të përzgjedhura."
+    "excerpt": "4 tema të përzgjedhura."
   },
   {
     "title": "Merimanga",
@@ -454,5 +454,105 @@
       "Kuran 57:25"
     ],
     "excerpt": "Përveç idesë se hekuri “u zbrit”, QuranMiracles ndalet edhe te lidhjet numerike të sures El-Hadid: numri atomik 26, numri i sures 57 dhe disa përkime me izotopet e hekurit."
+  },
+  {
+    "title": "Çdo Gjë e Gjallë nga Uji",
+    "href": "biologji/cdo_gje_e_gjalle_nga_uji.html",
+    "tags": [
+      "Biologji",
+      "Uji",
+      "Kuran 21:30"
+    ],
+    "excerpt": "QuranMiracles e lidh ajetet për ujin me faktin biologjik se qelizat, indet dhe organizmat varen nga uji si mediumi kryesor i jetës."
+  },
+  {
+    "title": "Krijimi në Çifte",
+    "href": "biologji/krijimi_ne_cifte.html",
+    "tags": [
+      "Biologji",
+      "Çifte",
+      "Kuran 36:36"
+    ],
+    "excerpt": "QuranMiracles e lexon ajetin për krijimin në çifte si një vërejtje mbi botën bimore, njeriun dhe modele të tjera të rendit të krijimit që shkenca i zbuloi më vonë."
+  },
+  {
+    "title": "Sperma Është Përbërje",
+    "href": "fiziologji/sperma_eshte_perberje.html",
+    "tags": [
+      "Fiziologji",
+      "Riprodhim",
+      "Kuran 76:2"
+    ],
+    "excerpt": "QuranMiracles e lidh shprehjen kuranore “pikë e përzier” me faktin se sperma nuk është një lëng i vetëm, por një përbërje komplekse biologjike."
+  },
+  {
+    "title": "Kockat dhe Veshja me Mish",
+    "href": "fiziologji/kockat_dhe_veshja_me_mish.html",
+    "tags": [
+      "Fiziologji",
+      "Skelet",
+      "Kuran 23:14"
+    ],
+    "excerpt": "QuranMiracles e lidh përshkrimin kuranor të kockave dhe mishit me rendin e zhvillimit të skeletit dhe veshjes së tij me muskuj."
+  },
+  {
+    "title": "Materia në Çifte",
+    "href": "kimi/materia_ne_cifte.html",
+    "tags": [
+      "Kimi",
+      "Materia",
+      "Kuran 36:36"
+    ],
+    "excerpt": "QuranMiracles e lidh idenë e krijimit në çifte me strukturën e materies, ku fizika dhe kimia moderne zbuluan grimca dhe kundërgrimca që qëndrojnë në ekuilibër të saktë."
+  },
+  {
+    "title": "Pesha e Atomit",
+    "href": "kimi/pesha_e_atomit.html",
+    "tags": [
+      "Kimi",
+      "Atom",
+      "Kuran 34:3"
+    ],
+    "excerpt": "QuranMiracles vëren se Kurani flet për peshën e atomit dhe edhe për gjëra më të vogla se ai, një formulim që lidhet ngushtë me matjen moderne të materies."
+  },
+  {
+    "title": "Karkalecët dhe Dalja nga Toka",
+    "href": "zoologji/karkalecet_dhe_dalja_nga_toka.html",
+    "tags": [
+      "Zoologji",
+      "Karkalecë",
+      "Kuran 54:7"
+    ],
+    "excerpt": "QuranMiracles e lidh krahasimin me karkalecët me sjelljen e tyre si tufë, daljen masive nga toka dhe dendësinë e habitshme të lëvizjes së tyre."
+  },
+  {
+    "title": "Gjithçka Noton në Orbitë",
+    "href": "kozmologji/gjithcka_noton_ne_orbite.html",
+    "tags": [
+      "Kozmologji",
+      "Orbitë",
+      "Kuran 21:33"
+    ],
+    "excerpt": "QuranMiracles e lidh përshkrimin kuranor të trupave që “notojnë” me lëvizjen e Diellit, Hënës dhe Tokës në orbitat e tyre."
+  },
+  {
+    "title": "Tërheqja dhe Lëvizja",
+    "href": "kozmologji/terheqja_dhe_levizja.html",
+    "tags": [
+      "Kozmologji",
+      "Graviteti",
+      "Kuran 81:15-16"
+    ],
+    "excerpt": "QuranMiracles e lexon rendin e lëvizjes qiellore si tregues të një universi të ndërtuar me ligje, masë dhe ekuilibër matematik."
+  },
+  {
+    "title": "Universi në Gjendje Gazore",
+    "href": "kozmologji/universi_ne_gjendje_gazore.html",
+    "tags": [
+      "Kozmologji",
+      "Universi",
+      "Kuran 41:11"
+    ],
+    "excerpt": "QuranMiracles e lidh përshkrimin e qiellit si “tym” me fazën e hershme të universit, para formimit të yjeve dhe planetëve."
   }
 ]

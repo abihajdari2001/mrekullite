@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-label="Ilustrim i receptorëve të dhimbjes në lëkurë">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#2a1c17"/><stop offset="1" stop-color="#14283a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="540" fill="url(#bg)"/>
+  <path d="M80 180c128-44 236 42 360 0s238-42 380 0v230H80z" fill="#e7a17d" opacity=".85"/>
+  <path d="M80 250c126-38 241 36 360-2s238-37 380 2" fill="none" stroke="#f6d0bd" stroke-width="18" opacity=".75"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M252 412c0-92 20-126 66-170" stroke="#3fb8ff" stroke-width="11"/>
+    <path d="M318 242c-28 10-49 10-78-4M318 242c-12-25-12-46 1-74" stroke="#3fb8ff" stroke-width="10"/>
+    <path d="M456 412c0-108 31-150 89-202" stroke="#37d67a" stroke-width="11"/>
+    <path d="M545 210c-35 14-67 10-100-10M545 210c-8-32-2-58 19-82" stroke="#37d67a" stroke-width="10"/>
+    <path d="M625 412c0-84 15-116 52-158" stroke="#e66a8a" stroke-width="11"/>
+    <path d="M677 254c-25 9-44 7-68-7M677 254c-9-22-5-42 10-60" stroke="#e66a8a" stroke-width="10"/>
+  </g>
+</svg>

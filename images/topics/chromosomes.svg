@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Percaktimi i gjinise</title>
+  <desc id="desc">Ilustrim abstrakt i kromozomeve X dhe Y pa figura njerezore.</desc>
+  <rect width="900" height="520" fill="#111a27"/>
+  <g fill="none" stroke-linecap="round" stroke-width="42">
+    <path d="M280 115 435 405M435 115 280 405" stroke="#19d6b3"/>
+    <path d="M540 115 645 260 750 115M645 260v145" stroke="#2f9cff"/>
+  </g>
+  <g fill="#e8eef8" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" text-anchor="middle">
+    <text x="360" y="470">X</text>
+    <text x="645" y="470">Y</text>
+  </g>
+  <g opacity=".45" fill="#fff">
+    <circle cx="100" cy="82" r="3"/><circle cx="790" cy="85" r="3"/><circle cx="135" cy="430" r="3"/><circle cx="810" cy="400" r="3"/>
+  </g>
+</svg>

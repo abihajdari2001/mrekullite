@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-label="Ilustrim i qumështit">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#172a3b"/><stop offset="1" stop-color="#1f3424"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="540" fill="url(#bg)"/>
+  <path d="M330 104h240l-26 318c-4 47-38 76-94 76s-90-29-94-76z" fill="#eaf7ff" opacity=".9"/>
+  <path d="M345 270c58-30 116 24 180-8l-13 154c-3 35-25 54-62 54s-59-19-62-54z" fill="#ffffff"/>
+  <path d="M330 104h240M354 134h192" stroke="#8ecae6" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="650" cy="176" r="72" fill="#37d67a" opacity=".12"/>
+  <circle cx="232" cy="404" r="106" fill="#3fb8ff" opacity=".1"/>
+</svg>

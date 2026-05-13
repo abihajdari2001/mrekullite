@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-label="Ilustrim i rrjetës së merimangës">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1f3424"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="540" fill="url(#bg)"/>
+  <g transform="translate(450 270)" fill="none" stroke="#d9fff0" stroke-linecap="round">
+    <g opacity=".78" stroke-width="5">
+      <line x1="-360" y1="0" x2="360" y2="0"/><line x1="0" y1="-220" x2="0" y2="220"/>
+      <line x1="-278" y1="-180" x2="278" y2="180"/><line x1="-278" y1="180" x2="278" y2="-180"/>
+      <line x1="-100" y1="-220" x2="100" y2="220"/><line x1="100" y1="-220" x2="-100" y2="220"/>
+    </g>
+    <g opacity=".58" stroke-width="4">
+      <ellipse rx="80" ry="48"/><ellipse rx="150" ry="86"/><ellipse rx="225" ry="130"/><ellipse rx="305" ry="175"/>
+    </g>
+  </g>
+  <g transform="translate(585 260)" fill="#37d67a" opacity=".85">
+    <ellipse cx="0" cy="0" rx="34" ry="48"/>
+    <circle cx="0" cy="-55" r="24"/>
+    <g stroke="#37d67a" stroke-width="8" stroke-linecap="round">
+      <path d="M-22-30l-65-48M22-30l65-48M-29-5l-82-10M29-5l82-10M-24 25l-72 46M24 25l72 46"/>
+    </g>
+  </g>
+</svg>

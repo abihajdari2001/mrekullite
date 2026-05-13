@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Cdo gje e gjalle nga uji</title>
+  <desc id="desc">Pike uji me qeliza dhe gjethe, si simbol i jetes.</desc>
+  <rect width="900" height="520" fill="#0d1c2b"/>
+  <path d="M450 72c116 140 188 242 188 320 0 84-78 128-188 128s-188-44-188-128c0-78 72-180 188-320z" fill="#2f9cff" opacity=".78"/>
+  <path d="M450 122c76 108 122 185 122 247 0 54-48 88-122 88s-122-34-122-88c0-62 46-139 122-247z" fill="#19d6b3" opacity=".75"/>
+  <g fill="#e8eef8">
+    <circle cx="406" cy="318" r="30" opacity=".92"/>
+    <circle cx="474" cy="298" r="22" opacity=".72"/>
+    <circle cx="501" cy="362" r="18" opacity=".8"/>
+  </g>
+  <path d="M396 385c52-14 84-46 104-96 34 44 24 102-24 130-36 21-70 11-80-34z" fill="#75e0a7"/>
+</svg>

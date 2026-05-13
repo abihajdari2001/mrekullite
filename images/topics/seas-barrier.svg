@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Detet qe nuk perzihen</title>
+  <desc id="desc">Dy masa uji me ngjyra te ndryshme qe takohen me nje kufi te qarte.</desc>
+  <rect width="900" height="520" fill="#0b1626"/>
+  <path d="M0 150c110-42 190 42 310 0s205-36 330 0 180 38 260 0v370H0z" fill="#168fc0"/>
+  <path d="M0 208c120 40 206-34 325 8s198 36 318-2 181-36 257 6v300H0z" fill="#19d6b3"/>
+  <path d="M450 126c-42 82-42 188 0 270" fill="none" stroke="#e8eef8" stroke-width="7" stroke-linecap="round" stroke-dasharray="18 18" opacity=".9"/>
+  <g fill="#e8eef8" opacity=".7">
+    <circle cx="185" cy="326" r="6"/><circle cx="230" cy="370" r="4"/><circle cx="690" cy="312" r="5"/><circle cx="735" cy="374" r="4"/>
+  </g>
+</svg>

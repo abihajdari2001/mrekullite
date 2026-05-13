@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-label="Ilustrim i tufës së karkalecëve">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#142218"/><stop offset="1" stop-color="#2f2813"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="540" fill="url(#bg)"/>
+  <g fill="none" stroke="#b7f7a3" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+    <g transform="translate(170 180) rotate(-12)">
+      <ellipse cx="0" cy="0" rx="52" ry="22"/><ellipse cx="66" cy="-6" rx="30" ry="18"/>
+      <path d="M-25 18l-50 58M8 20l-25 68M45 14l52 48M74-18l48-34"/>
+      <path d="M-38-16l-58-42M15-22l-20-58"/>
+    </g>
+    <g transform="translate(450 265) rotate(8) scale(1.18)">
+      <ellipse cx="0" cy="0" rx="52" ry="22"/><ellipse cx="66" cy="-6" rx="30" ry="18"/>
+      <path d="M-25 18l-50 58M8 20l-25 68M45 14l52 48M74-18l48-34"/>
+      <path d="M-38-16l-58-42M15-22l-20-58"/>
+    </g>
+    <g transform="translate(710 150) rotate(-24) scale(.9)">
+      <ellipse cx="0" cy="0" rx="52" ry="22"/><ellipse cx="66" cy="-6" rx="30" ry="18"/>
+      <path d="M-25 18l-50 58M8 20l-25 68M45 14l52 48M74-18l48-34"/>
+      <path d="M-38-16l-58-42M15-22l-20-58"/>
+    </g>
+    <g transform="translate(650 390) rotate(18) scale(.8)">
+      <ellipse cx="0" cy="0" rx="52" ry="22"/><ellipse cx="66" cy="-6" rx="30" ry="18"/>
+      <path d="M-25 18l-50 58M8 20l-25 68M45 14l52 48M74-18l48-34"/>
+      <path d="M-38-16l-58-42M15-22l-20-58"/>
+    </g>
+  </g>
+  <path d="M0 418c166-38 310-12 462-20s286-56 438-16v158H0z" fill="#4d3a1e" opacity=".55"/>
+</svg>

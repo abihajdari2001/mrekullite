@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-label="Ilustrim abstrakt i fazave embriologjike">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#241526"/>
+      <stop offset="1" stop-color="#102a3b"/>
+    </linearGradient>
+    <radialGradient id="cell" cx="50%" cy="45%" r="55%">
+      <stop offset="0" stop-color="#ffe2ef"/>
+      <stop offset="0.55" stop-color="#e66a8a"/>
+      <stop offset="1" stop-color="#6d2440"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="540" fill="url(#bg)"/>
+  <g opacity=".2" stroke="#ffffff" stroke-width="2">
+    <path d="M60 438C190 310 286 378 410 245S650 84 840 136" fill="none"/>
+    <path d="M20 155C168 214 308 120 456 182s248 98 424-24" fill="none"/>
+  </g>
+  <g transform="translate(100 135)">
+    <circle cx="80" cy="135" r="58" fill="url(#cell)"/>
+    <circle cx="250" cy="135" r="70" fill="url(#cell)"/>
+    <path d="M250 65a70 70 0 0 1 0 140a70 70 0 0 1 0-140m0 0v140" fill="none" stroke="#ffd7e5" stroke-width="7" opacity=".9"/>
+    <circle cx="450" cy="135" r="86" fill="url(#cell)"/>
+    <g fill="#ffd7e5" opacity=".9">
+      <circle cx="421" cy="112" r="23"/><circle cx="478" cy="113" r="24"/>
+      <circle cx="424" cy="165" r="22"/><circle cx="477" cy="165" r="23"/>
+    </g>
+    <path d="M610 70c92 2 134 76 102 139c-26 52-96 68-152 34c-64-38-64-142 50-173z" fill="url(#cell)"/>
+    <path d="M603 130c44-34 104-14 106 38c2 50-52 78-95 48c-36-25-42-62-11-86z" fill="none" stroke="#ffd7e5" stroke-width="8" opacity=".85"/>
+  </g>
+  <circle cx="735" cy="95" r="80" fill="#37d67a" opacity=".08"/>
+  <circle cx="175" cy="430" r="110" fill="#3fb8ff" opacity=".08"/>
+</svg>

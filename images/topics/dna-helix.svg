@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">ADN dhe kodi gjenetik</title>
+  <desc id="desc">Helike ADN-je me lidhje molekulare te ndricuara.</desc>
+  <rect width="900" height="520" fill="#101824"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M340 70c220 90 220 290 0 380" stroke="#19d6b3" stroke-width="12"/>
+    <path d="M560 70c-220 90-220 290 0 380" stroke="#2f9cff" stroke-width="12"/>
+    <g stroke="#e8eef8" stroke-width="7" opacity=".8">
+      <path d="M368 110h164"/><path d="M395 160h110"/><path d="M405 210h90"/>
+      <path d="M405 260h90"/><path d="M395 310h110"/><path d="M368 360h164"/><path d="M340 410h220"/>
+    </g>
+  </g>
+  <g fill="#f2b84b">
+    <circle cx="340" cy="70" r="14"/><circle cx="560" cy="70" r="14"/><circle cx="340" cy="450" r="14"/><circle cx="560" cy="450" r="14"/>
+  </g>
+</svg>

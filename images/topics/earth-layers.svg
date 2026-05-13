@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Shtresat e tokes</title>
+  <desc id="desc">Prerje e Tokes qe tregon kore, mantel dhe berthame.</desc>
+  <rect width="900" height="520" fill="#102033"/>
+  <circle cx="450" cy="260" r="210" fill="#1e8f72"/>
+  <path d="M450 50a210 210 0 1 1 0 420z" fill="#2f9cff"/>
+  <path d="M450 82a178 178 0 1 1 0 356z" fill="#f0a64f"/>
+  <path d="M450 132a128 128 0 1 1 0 256z" fill="#e8583d"/>
+  <path d="M450 190a70 70 0 1 1 0 140z" fill="#f7d45c"/>
+  <path d="M450 50a210 210 0 0 1 0 420" fill="none" stroke="#e8eef8" stroke-width="6" opacity=".75"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#e8eef8" font-size="26" font-weight="700">
+    <text x="620" y="150">Kore</text>
+    <text x="645" y="235">Mantel</text>
+    <text x="640" y="327">Berthame</text>
+  </g>
+  <g stroke="#e8eef8" stroke-width="3" opacity=".65">
+    <path d="M602 143h-72"/><path d="M628 226h-105"/><path d="M625 318h-135"/>
+  </g>
+</svg>

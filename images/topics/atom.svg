@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-label="Ilustrim atomik">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#172a3b"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="540" fill="url(#bg)"/>
+  <g transform="translate(450 270)" fill="none" stroke-width="8">
+    <ellipse rx="275" ry="92" stroke="#3fb8ff" opacity=".75"/>
+    <ellipse rx="275" ry="92" stroke="#37d67a" opacity=".65" transform="rotate(60)"/>
+    <ellipse rx="275" ry="92" stroke="#e66a8a" opacity=".65" transform="rotate(-60)"/>
+    <circle r="58" fill="#f2b84b" stroke="none"/>
+    <circle cx="275" cy="0" r="17" fill="#3fb8ff" stroke="none"/>
+    <circle cx="-138" cy="238" r="17" fill="#37d67a" stroke="none"/>
+    <circle cx="-138" cy="-238" r="17" fill="#e66a8a" stroke="none"/>
+  </g>
+</svg>

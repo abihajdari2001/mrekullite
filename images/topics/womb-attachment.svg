@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-label="Ilustrim i varjes së embrionit në mitër">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#2b172a"/><stop offset="1" stop-color="#132536"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="540" fill="url(#bg)"/>
+  <path d="M450 78c128 0 220 92 220 220c0 101-74 167-157 180c-42 7-84-11-104-48c-20 37-62 55-104 48c-83-13-157-79-157-180C148 170 322 78 450 78z" fill="#e66a8a" opacity=".22"/>
+  <path d="M450 99c101 0 178 74 178 182c0 87-60 139-128 151c-32 6-61-8-76-37c-15 29-44 43-76 37c-68-12-128-64-128-151c0-108 129-182 230-182z" fill="none" stroke="#f7bed1" stroke-width="11"/>
+  <path d="M450 134v139" stroke="#f7bed1" stroke-width="12" stroke-linecap="round"/>
+  <ellipse cx="450" cy="309" rx="88" ry="60" fill="#c43f68"/>
+  <ellipse cx="450" cy="309" rx="54" ry="35" fill="#ffd7e5" opacity=".65"/>
+  <path d="M357 298c-49 14-85 48-104 99M543 298c49 14 85 48 104 99" stroke="#3fb8ff" stroke-width="7" opacity=".45" fill="none"/>
+</svg>
