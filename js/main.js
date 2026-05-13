@@ -38,7 +38,7 @@ const topicImages = {
   "përcaktimi i gjinisë": "https://images.unsplash.com/photo-1585250020478-435799a4e908?w=800&q=80",
   "merimanga": "https://images.unsplash.com/photo-1517036662923-d30925208447?w=800&q=80",
   "qumështi": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=800&q=80",
-  "dëgjimi": "https://images.unsplash.com/photo-1584362621008-015403061225?w=800&q=80",
+  "dëgjimi": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=800&q=80",
   // Cosmology
   "zgjerimi i universit": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=800&q=80",
   "big bang": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800&q=80",
@@ -63,7 +63,7 @@ const topicImages = {
   "placenta": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=800&q=80",
   "rritja fetale": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=800&q=80",
   "zhv i organeve": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&q=80",
-  "fazat embriologjike": "https://images.unsplash.com/photo-1584362621008-015403061225?w=800&q=80",
+  "fazat embriologjike": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=800&q=80",
   // Geology
   "malet si kunja": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
   "plakat tektonike": "https://images.unsplash.com/photo-1527824404775-dce343118ebc?w=800&q=80",
