@@ -28,7 +28,7 @@ const topicImages = {
   "kodi gjenetik": "https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=900&q=80",
   "fotosinteza": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80",
   "sistemi imunitar": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800&q=80",
-  "qelizat staminale": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=900&q=80",
+  "qelizat staminale": "https://images.pexels.com/photos/8917462/pexels-photo-8917462.jpeg?auto=compress&cs=tinysrgb&w=900",
   "mitoza": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=800&q=80",
   "mikrobioma": "https://images.unsplash.com/photo-1583912086096-8c60d75a53f9?w=800&q=80",
   "homeostaza": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
@@ -38,7 +38,7 @@ const topicImages = {
   "percaktimi i gjinise": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=900&q=80",
   "merimanga": "https://images.unsplash.com/photo-1570036322622-a2858047b011?w=900&q=80",
   "qumështi": "https://images.unsplash.com/photo-1601436423474-51738541c1b1?w=900&q=80",
-  "dëgjimi": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=900&q=80",
+  "dëgjimi": "https://images.pexels.com/photos/8720351/pexels-photo-8720351.jpeg?auto=compress&cs=tinysrgb&w=900",
   // Cosmology
   "zgjerimi i universit": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=900&q=80",
   "big bang": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800&q=80",
@@ -53,17 +53,17 @@ const topicImages = {
   "struktura në shkallë": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=800&q=80",
   "fundi i universit": "https://images.unsplash.com/photo-1506443432602-ac2fcd6f54e0?w=800&q=80",
   // Embryology
-  "alaqah": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=900&q=80",
-  "mudghah": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=900&q=80",
+  "alaqah": "https://images.pexels.com/photos/8917462/pexels-photo-8917462.jpeg?auto=compress&cs=tinysrgb&w=900",
+  "mudghah": "https://images.pexels.com/photos/8720351/pexels-photo-8720351.jpeg?auto=compress&cs=tinysrgb&w=900",
   "nutfah": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800&q=80",
-  "lindja": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=900&q=80",
-  "lëngu amniotik": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=900&q=80",
+  "lindja": "https://images.pexels.com/photos/8917462/pexels-photo-8917462.jpeg?auto=compress&cs=tinysrgb&w=900",
+  "lëngu amniotik": "https://images.pexels.com/photos/8917462/pexels-photo-8917462.jpeg?auto=compress&cs=tinysrgb&w=900",
   "determinimi seksual": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=900&q=80",
   "ossifikimi": "https://images.unsplash.com/photo-1530026186672-2cd00ffc50fe?w=800&q=80",
-  "placenta": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=900&q=80",
-  "rritja fetale": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=900&q=80",
+  "placenta": "https://images.pexels.com/photos/8720351/pexels-photo-8720351.jpeg?auto=compress&cs=tinysrgb&w=900",
+  "rritja fetale": "https://images.pexels.com/photos/8917462/pexels-photo-8917462.jpeg?auto=compress&cs=tinysrgb&w=900",
   "zhv i organeve": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&q=80",
-  "fazat embriologjike": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=900&q=80",
+  "fazat embriologjike": "https://images.pexels.com/photos/8917462/pexels-photo-8917462.jpeg?auto=compress&cs=tinysrgb&w=900",
   // Geology
   "malet si kunja": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
   "plakat tektonike": "https://images.unsplash.com/photo-1527824404775-dce343118ebc?w=800&q=80",
@@ -85,8 +85,8 @@ const topicImages = {
   "eret pllenuese": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80",
   "rete dhe procesi i shiut": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=800&q=80",
   "carjet e tokes": "https://images.unsplash.com/photo-1747122450139-6363248ec01f?w=900&q=80",
-  "alaqah varja ne murin e mitres": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=900&q=80",
-  "krijimi ne tre erresira": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=900&q=80",
+  "alaqah varja ne murin e mitres": "https://images.pexels.com/photos/8917462/pexels-photo-8917462.jpeg?auto=compress&cs=tinysrgb&w=900",
+  "krijimi ne tre erresira": "https://images.pexels.com/photos/8720351/pexels-photo-8720351.jpeg?auto=compress&cs=tinysrgb&w=900",
   "njeriu nga balta dhe uji": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=900&q=80",
   "toka qe gjallerohet pas shiut": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=900&q=80",
   "njeriu dhe ndotja": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=900&q=80",
@@ -104,7 +104,7 @@ const topicImages = {
   "terheqja dhe levizja": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=900&q=80",
   "universi ne gjendje gazore": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=900&q=80",
   // Chemistry
-  "default_kimi": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&q=80",
+  "default_kimi": "https://images.unsplash.com/photo-1743537010961-f3cb4fbbdb1d?w=900&q=80",
   "hekuri": "https://images.unsplash.com/photo-1743537010961-f3cb4fbbdb1d?w=900&q=80",
   "atomi": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=900&q=80",
   // Physiology
@@ -124,7 +124,7 @@ const categoryImages = {
   biologji: "https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=800&q=80",
   kimi: "https://images.unsplash.com/photo-1743537010961-f3cb4fbbdb1d?w=900&q=80",
   kozmologji: "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800&q=80",
-  embriologji: "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=900&q=80",
+  embriologji: "https://images.pexels.com/photos/8720351/pexels-photo-8720351.jpeg?auto=compress&cs=tinysrgb&w=900",
   gjeologji: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
   fiziologji: "https://images.unsplash.com/photo-1530026186672-2cd00ffc50fe?w=800&q=80",
   zoologji: "https://images.unsplash.com/photo-1689126086601-6717701d05ef?w=900&q=80",
@@ -178,9 +178,11 @@ function currentArticleCategory() {
 
 function getTopicImageUrl(title, categoryKey) {
   const titleNorm = normalizeText(title || "");
-  // Try exact or partial match in topicImages
+  // Match the article/category title against known topic keys without broad
+  // reverse matching, so short category names like "Kimi" do not hit
+  // unrelated words such as "bllokimi".
   for (const [key, url] of Object.entries(topicImages)) {
-    if (titleNorm.includes(key) || key.includes(titleNorm.split(" ")[0])) {
+    if (titleNorm === key || titleNorm.includes(key)) {
       return url;
     }
   }
