@@ -22,8 +22,16 @@ for cat in categories:
             desc_match = re.search(r'<p class="lead">(.*?)</p>', content)
             desc = desc_match.group(1) if desc_match else ""
             
+            img_match = re.search(r'<figure class="article-visual[^>]*>.*?<img src="(.*?)" alt="(.*?)"', content, re.DOTALL)
+            if img_match:
+                img_src = img_match.group(1)
+                img_alt = img_match.group(2)
+                img_html = f'\n        <div class="card-media">\n          <img src="{img_src}" alt="{img_alt}" loading="lazy">\n        </div>'
+            else:
+                img_html = ""
+            
             cards_html += f'''
-      <article class="card" data-card>
+      <article class="card" data-card>{img_html}
         <h3>{title}</h3>
         <p>{desc}</p>
         <a class="btn" href="{f}">Lexo Artikullin</a>
@@ -39,7 +47,8 @@ for cat in categories:
             idx_content = idx_file.read()
             
         # Replace everything inside <div class="grid">...</div> with the new cards
-        new_content = re.sub(r'<div class="grid">.*?</div>', f'<div class="grid">{cards_html}\n    </div>', idx_content, flags=re.DOTALL)
+        # using </main> as boundary to avoid nested </div> issues
+        new_content = re.sub(r'<div class="grid">.*?</main>', f'<div class="grid">{cards_html}\n    </div>\n</main>', idx_content, flags=re.DOTALL)
         
         with open(idx_path, 'w', encoding='utf-8') as idx_file:
             idx_file.write(new_content)

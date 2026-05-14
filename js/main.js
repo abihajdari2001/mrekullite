@@ -36,8 +36,10 @@ const topicImages = {
   "respiracioni qelizor": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&q=80",
   "endokrini": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800&q=80",
   "percaktimi i gjinise": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=900&q=80",
+  "fabrika e gjelber": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=900&q=80",
   "merimanga": "https://images.unsplash.com/photo-1570036322622-a2858047b011?w=900&q=80",
   "qumështi": "https://images.unsplash.com/photo-1601436423474-51738541c1b1?w=900&q=80",
+  "komunikimi i milingonave": "https://images.unsplash.com/photo-1518014529339-1662c1ca91fb?w=900&q=80",
   "dëgjimi": "https://images.pexels.com/photos/8720351/pexels-photo-8720351.jpeg?auto=compress&cs=tinysrgb&w=900",
   // Cosmology
   "zgjerimi i universit": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=900&q=80",
@@ -107,12 +109,15 @@ const topicImages = {
   "default_kimi": "https://images.unsplash.com/photo-1743537010961-f3cb4fbbdb1d?w=900&q=80",
   "hekuri": "https://images.unsplash.com/photo-1743537010961-f3cb4fbbdb1d?w=900&q=80",
   "atomi": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=900&q=80",
+  "zjarri nga druri": "https://images.unsplash.com/photo-1497910091122-9f8a7746eb33?w=900&q=80",
   // Physiology
   "default_fiziologji": "https://images.unsplash.com/photo-1530026186672-2cd00ffc50fe?w=800&q=80",
   "pjesa ballore": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=900&q=80",
   "receptorët e dhimbjes": "https://images.unsplash.com/photo-1662973417989-1f30d1b0a462?w=900&q=80",
   "veshtiresia e ngjitjes": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
   "ngjitjes ne qiell": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80",
+  "mungesa e oksigjenit": "https://images.unsplash.com/photo-1522120691812-dcdfb62a15cb?w=900&q=80",
+  "gjurmët e gishtave": "https://images.unsplash.com/photo-1559281205-095bb66318fa?w=900&q=80",
   // Zoology
   "default_zoologji": "https://images.unsplash.com/photo-1689126086601-6717701d05ef?w=900&q=80",
 };
