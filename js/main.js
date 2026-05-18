@@ -321,6 +321,23 @@ function setupNavigation() {
   const updateHeader = () => header?.classList.toggle("is-scrolled", window.scrollY > 8);
   updateHeader();
   window.addEventListener("scroll", updateHeader, { passive: true });
+
+  const currentPath = window.location.pathname;
+  $$(".nav-links a").forEach(link => {
+    const href = link.getAttribute("href");
+    if (!href) return;
+    const isAbout = href.includes("about.html");
+    const isCategory = href.match(/([a-z]+)\/index\.html$/);
+    const isRoot = href === "index.html" || href === "../index.html" || href.includes("Ballina");
+    
+    if (isAbout && currentPath.includes("about.html")) {
+      link.classList.add("active");
+    } else if (isCategory && currentPath.includes(`/${isCategory[1]}/`)) {
+      link.classList.add("active");
+    } else if (isRoot && (currentPath.endsWith("/") || currentPath.endsWith("index.html") && !currentPath.match(/\/[a-z]+\/index\.html$/))) {
+      link.classList.add("active");
+    }
+  });
 }
 
 function setupTopButton() {
